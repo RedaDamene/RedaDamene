@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a bakery website**
 
-- 🌱 I’m currently learning **React, Node.js and PHP**
+- 🌱 I’m currently learning **React, Node.js**
 
 - 📝 I regularly write articles on [LinkedIn](LinkedIn)
 
