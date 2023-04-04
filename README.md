@@ -9,6 +9,9 @@
 
 - 📫 How to reach me **damene.reda4@gmail.com**
 
+<h3>You can see my last project <a href="https://www.boulangerie-djendjen.fr/">here</a>, its a website for a bakery in France, Nantes.</h3>
+<p>I develop this website with MERN stack. That's the first time.</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rdamene" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rdamene" height="30" width="40" /></a>
