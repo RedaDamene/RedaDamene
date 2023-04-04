@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Node.js**
 
-- 📝 I regularly write articles on [LinkedIn](LinkedIn)
+- 📝 I regularly post on [LinkedIn](LinkedIn)
 
 - 📫 How to reach me **damene.reda4@gmail.com**
 
