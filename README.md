@@ -10,7 +10,7 @@
 - 📫 How to reach me **damene.reda4@gmail.com**
 
 <h3>You can see my last project <a href="https://www.boulangerie-djendjen.fr/">here</a>, its a website for a bakery in France, Nantes.</h3>
-<p>I develop this website with MERN stack. That's the first time.</p>
+<p>I developed this website with MERN stack. That's the first time.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
