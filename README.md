@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently **studying**
 
-- 🌱 I’m currently learning **Symfony, Angular**
+- 🌱 I’m currently learning **Symfony**
 
 - 📝 I regularly post on [LinkedIn](LinkedIn)
 
