@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Reda DAMENE</h1>
 <h3 align="center">A passionate web developer from France</h3>
 
-- 🔭 Je suis actuellement **étudiant**
+- 🔭 Je suis actuellement **ingénieur logiciell chez Capgemini**
 
-- 🌱 Je me forme actuellement à **Spring Boot**
+- 🌱 Je me forme actuellement à **Spring Boot et VueJs**
 
 - 📝 Je poste régulièrement [LinkedIn](LinkedIn)
 
